@@ -10,3 +10,12 @@ Full-stack customer retention dashboard with MongoDB. Data persists after refres
 - CSV export
 
 ## Preview
+
+**Dashboard includes:**
+- 📊 Risk Distribution Chart
+- 💬 AI Analyst Chat Assistant  
+- 📋 Customer Database Table
+- 💾 Save to MongoDB Button
+- 📁 Export CSV Feature
+
+**Data persists after page refresh ✅**
